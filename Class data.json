@@ -1,0 +1,1180 @@
+{
+  "version": 1,
+  "name": "OBR 2025",
+  "courseFolder": {
+    "id": "1PYP7kKlOKoVHxnRKBPeOf-5HQYXBNqzKzngNS6fAOl73bb1oZx30E2j3qbleQixWtoxdMi1X",
+    "name": "OBR 2025",
+    "openUrl": "https://drive.google.com/drive/folders/1PYP7kKlOKoVHxnRKBPeOf-5HQYXBNqzKzngNS6fAOl73bb1oZx30E2j3qbleQixWtoxdMi1X"
+  },
+  "courseState": "PROVISIONED",
+  "owner": {
+    "name": {
+      "fullName": "Rosiberto dos Santos Gonçalves"
+    },
+    "emailAddress": "rosibertosantos@gmail.com"
+  },
+  "teachers": [{
+    "profile": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    }
+  }],
+  "topics": [{
+    "name": "Datas Importantes"
+  }, {
+    "name": "Livros em PDF - Arduino"
+  }, {
+    "name": "Provas Teóricas OBR (2018 a 2024)"
+  }, {
+    "name": "Simulador Arduino - WOKWI"
+  }, {
+    "name": "Simulador sBotics"
+  }, {
+    "name": "Tutoriais - sBotics"
+  }, {
+    "name": "Videoaulas Arduino"
+  }, {
+    "name": "Videoaulas sBotics"
+  }],
+  "posts": [{
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2025-04-27T01:39:47.220Z",
+    "updateTime": "2025-04-27T01:39:47.203Z",
+    "publicationTime": "2025-04-27T01:39:47.072Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Datas das modalidades\n\nTeórica\nAplicação das provas (Fase 1): 02 a 06/06/2025\nAplicação das provas (Fase 2): 07/08/2025\n\n\nRobótica Artística (presencial)\nEtapas Regionais e Estaduais: 01/06/2025 a 31/08/2025\nEtapa Nacional: 13/10/2025 a 19/10/2025\n\n\nRobótica de Resgate (presencial)\nEtapas Regionais e Estaduais: 01/06/2025 a 31/08/2025\nEtapa Nacional: 13/10/2025 a 19/10/2025\n\n\nRobótica Virtual - Simulação (online): \nEtapas Estaduais: Em breve.\nEtapa Nacional: Em breve.\n\n",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003eDatas das modalidades\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cu\u003eTeórica\u003c/u\u003e\u003cbr\u003e\u003cb\u003eAplicação das provas (Fase 1):\u003c/b\u003e 02 a 06/06/2025\u003cbr\u003e\u003cb\u003eAplicação das provas (Fase 2):\u003c/b\u003e 07/08/2025\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cu\u003eRobótica Artística (presencial)\u003c/u\u003e\u003cbr\u003e\u003cb\u003eEtapas Regionais e Estaduais:\u003c/b\u003e 01/06/2025 a 31/08/2025\u003cbr\u003e\u003cb\u003eEtapa Nacional:\u003c/b\u003e 13/10/2025 a 19/10/2025\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cu\u003eRobótica de Resgate (presencial)\u003c/u\u003e\u003cbr\u003e\u003cb\u003eEtapas Regionais e Estaduais:\u003c/b\u003e 01/06/2025 a 31/08/2025\u003cbr\u003e\u003cb\u003eEtapa Nacional:\u003c/b\u003e 13/10/2025 a 19/10/2025\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cu\u003eRobótica Virtual - Simulação (online):\u003c/u\u003e \u003cbr\u003e\u003cb\u003eEtapas Estaduais:\u003c/b\u003e Em breve.\u003cbr\u003e\u003cb\u003eEtapa Nacional:\u003c/b\u003e Em breve.\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2025-04-27T01:22:59.382Z",
+    "updateTime": "2025-04-27T01:24:57.580Z",
+    "publicationTime": "2025-04-27T01:23:07.276Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Provas Teóricas OBR (2018 a 2024)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "15dg5rwLmLgrUhDaMz3yg6vA7xBUm0KN7",
+          "title": "OBR2024_Nivel5_FASE2-gabarito.pdf",
+          "alternateLink": "https://drive.google.com/file/d/15dg5rwLmLgrUhDaMz3yg6vA7xBUm0KN7/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM4uFsW5-DBlTfbEg92sADEocNhJt2hdd2F63cNasvKwzwJ7oZvLp98xrxNQEPKyIB_gE5pnA4gx7K-Hgs2kqAkpe0abATJ5Y3q7fHo5EiM3n4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1kyVaX-gbRxrmgy6VLwrupIrAal3NXXat",
+          "title": "OBR2024_Nivel5_FASE1-gabarito.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1kyVaX-gbRxrmgy6VLwrupIrAal3NXXat/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOF24qMgx3rmeFfO6H3ci5ndL_uh063HJw3MC_vaVhoZMvLUn9m3vmtYPVq84GdySLnWLBPGcYO1jZxEFjFzUp0O0AtLfZO0j8wTia9oBzKZWw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Provas/Gabaritos (2024) - Fases 1 e 2"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2025-04-27T01:22:16.288Z",
+    "updateTime": "2025-04-27T01:24:16.931Z",
+    "publicationTime": "2025-04-27T01:22:22.497Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Provas Teóricas OBR (2018 a 2024)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1t35OPykWjcozOfcIbuTWwKwNjdH_bgh1",
+          "title": "2023-N5-FASE2-Gabarito-compressed.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1t35OPykWjcozOfcIbuTWwKwNjdH_bgh1/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM70_w896envAyhak18jh7_WhAGhPfXHSgx63xsGuB9k6rHse9Nv-sVgOLLASxuavXBb1CFvRC-Isbth2w67hkyzf7YutTlfTGqzq1HG8DuFfI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1yzh0PUznG751eS3I7E_V14Pqk4OEPgxE",
+          "title": "2023-N5-FASE2-compressed.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1yzh0PUznG751eS3I7E_V14Pqk4OEPgxE/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMOzLxbhHR_hIBW4xuyM_0laUUvxAs0gK22EmZT07WCgG2IllOhdEn5ltzABFaRlz8TV_lVv4cc5y68S5onnIq3Dy0ZAO0VjHxML9K-4Ql4wj4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1VWQXNEG-7_kt5c3gqdMEKrTNZsWKPuK8",
+          "title": "2023-N5-FASE1-Gabarito-compressed.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1VWQXNEG-7_kt5c3gqdMEKrTNZsWKPuK8/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMmTI99tthZ5oR85IP2xrbw8f36PJ8tAIlHgvWCZ7w-b7QG4crwXv8-lIr0yCfekVholNd-GCI4jJcq0YdqYjVmn3gLvEvcepxYW9bRnSRKKkE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "13_dp8NOP2Faf7P8t6h8S3JNklpI_76oy",
+          "title": "2023-N5-FASE1-compressed.pdf",
+          "alternateLink": "https://drive.google.com/file/d/13_dp8NOP2Faf7P8t6h8S3JNklpI_76oy/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOOHDqN_KQ7BHUyKa9-SraAUV4Eywk2EmjEiwbEwpOrnB7YOW4VRWX9CohyDDULuLZI8X-xyaxfSfDH5U7sBwQrlKKDjkBpkg-p30l1Ppt6JHY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Provas/Gabaritos (2023) - Fases 1 e 2"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-07-31T14:35:03.282Z",
+    "updateTime": "2025-04-27T01:36:20.600Z",
+    "publicationTime": "2024-07-31T14:35:02.994Z",
+    "state": "DELETED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "ATENÇÃO \n---------------------\n\nA primeira fase da OBR 2024 (Prova Teórica) está CHEGANDO. \n\nEstaremos realizando na ETEMB a prova On-line, na próxima quarta-feira (07/08) das 7h30 às 12h no Lab 4.0.\n\nOBS: TODOS OS ALUNOS DEVEM TER UMA CONTA NO SISTEMA OLIMPO PARA REALIZAR A PROVA.\n\nNÃO SE PREOCUPEM, EU farei o cadastro de TODOS vocês.\n\n\nEm BREVE disponibilizo mais informações.\n\nAt.te\nRosiberto Santos",
+      "textHtml": "\u003cdiv\u003e\u003cb\u003eATENÇÃO \u003c/b\u003e\u003cbr\u003e\u003cb\u003e---------------------\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eA primeira fase da OBR 2024 (Prova Teórica) está \u003cu\u003eCHEGANDO\u003c/u\u003e. \u003c/b\u003e\u003cbr\u003e\u003cbr\u003eEstaremos realizando na ETEMB a\u003cb\u003e prova \u003cu\u003eOn-line\u003c/u\u003e, \u003c/b\u003ena próxima\u003cb\u003e quarta-feira (07/08) \u003c/b\u003edas\u003cb\u003e 7h30 \u003c/b\u003eàs\u003cb\u003e 12h \u003c/b\u003eno\u003cb\u003e Lab 4.0.\u003c/b\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003eOBS: \u003c/b\u003eTODOS OS ALUNOS DEVEM TER UMA CONTA NO SISTEMA OLIMPO PARA REALIZAR A PROVA.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eNÃO SE PREOCUPEM\u003c/b\u003e, \u003cb\u003eEU\u003c/b\u003e farei o cadastro de TODOS vocês.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003eEm BREVE disponibilizo mais informações.\u003cbr\u003e\u003cbr\u003eAt.te\u003cbr\u003eRosiberto Santos\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-05-13T12:07:41.806Z",
+    "updateTime": "2025-04-27T01:36:26.787Z",
+    "publicationTime": "2024-05-13T12:07:41.734Z",
+    "state": "DELETED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "PessoALL,\n\nHouve nova alteração na data da prova teórica. \n\nAgora:\n1ª Fase será realizada em 07/08/2024.\n2ª Fase em 16/09/2024.",
+      "textHtml": "\u003cdiv\u003ePessoALL,\u003cbr\u003e\u003cbr\u003eHouve nova alteração na data da prova teórica. \u003cbr\u003e\u003cbr\u003e\u003cb\u003eAgora:\u003c/b\u003e\u003cul\u003e\u003cli\u003e1ª Fase será realizada em 07/08/2024.\u003c/li\u003e\u003cli\u003e2ª Fase em 16/09/2024.\u003c/li\u003e\u003c/ul\u003e\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-29T17:26:48.356Z",
+    "updateTime": "2025-04-27T01:36:39.007Z",
+    "publicationTime": "2024-04-29T17:26:48.199Z",
+    "state": "DELETED",
+    "assigneeMode": "ALL_STUDENTS",
+    "announcement": {
+      "text": "Boa tarde PessoALL,\n\nComecem as leituras e assistir as videoaulas.\n\nSigam as recomendações. Iniciem pelo sBotics para entender como é a ferramenta. Em breve, usaremos em laboratório.",
+      "textHtml": "\u003cdiv\u003eBoa tarde PessoALL,\u003cbr\u003e\u003cbr\u003eComecem as leituras e assistir as videoaulas.\u003cbr\u003e\u003cbr\u003eSigam as recomendações. Iniciem pelo sBotics para entender como é a ferramenta. Em breve, usaremos em laboratório.\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-24T18:14:27.279Z",
+    "updateTime": "2024-04-24T18:14:34.552Z",
+    "publicationTime": "2024-04-24T18:14:34.334Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Livros em PDF - Arduino"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1v4YaZsvDDQAotVnrvKI_kZDJCLa2EsZe",
+          "title": "Apostila Robôcactus 2.0.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1v4YaZsvDDQAotVnrvKI_kZDJCLa2EsZe/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPSUA7sUmEnnG3pzlD84KuJkLyVy8zx-7hRxtfusBfhJqFeNTUYxUJoMyio6U8K-ERD3LKntD-nCYrLHycMgt3bH8tSm3IFSSaXZDv_uQAcEVw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Apostila Robô Cactus 2.0"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-24T18:07:29.137Z",
+    "updateTime": "2024-04-24T18:08:31.325Z",
+    "publicationTime": "2024-04-24T18:08:31.149Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Livros em PDF - Arduino"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1reS-K3DL3wK6hasRapAUgPNDO4ReugOI",
+          "title": "Apostila_Eletrogate_-_Kit_Arduino_Kids2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1reS-K3DL3wK6hasRapAUgPNDO4ReugOI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNBpvNcND66LB4RlhJh5AE0PyBxy03bRvfQtYKKxLladWeePq-hTGlr-stDwxbnJDzbktuARQrj9rqBK1OiSpd8LOHuWbtKPUXDGLpLt2H6Yh8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Apostila Arduino Kids"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-23T22:45:09.763Z",
+    "updateTime": "2025-04-27T01:36:03.238Z",
+    "publicationTime": "2024-04-23T22:45:54.245Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Datas Importantes"
+    }],
+    "courseWorkMaterial": {
+      "title": "Modalidade Prática e Virtual",
+      "description": "Para estudantes do Ensino Médio ou Técnico Integrado.\n\n\nRobótica Artística: Apresentação artística com a utilização de robôs. As apresentações podem ser dança, teatro, mágica, show de comédia entre outras.\n\nEtapas Regionais e Estaduais: 01/06/2025 a 31/08/2025\nEtapa Nacional: 13/10/2025 a 19/10/2025\n\n\nRobótica de Resgate: Construa um robô seguidor de linha autônomo que seja capaz de resgatar vítimas em um ambiente de desastre passando por todos os perigos do caminho, sem intervenção humana.\nEtapas Regionais e Estaduais: 01/06/2025 a 31/08/2025\nEtapa Nacional: 13/10/2025 a 19/10/2025\n\n\nRobótica Virtual - Simulação: Crie um robô virtual para competir em provas simuladas de resgate. É uma oportunidade de participar de forma mais acessível.\n\nEtapas Estaduais: Em breve.\nEtapa Nacional: Em breve.",
+      "descriptionHtml": "\u003cdiv\u003ePara estudantes do Ensino Médio ou Técnico Integrado.\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003cu\u003eRobótica Artística:\u003c/u\u003e\u003c/b\u003e Apresentação artística com a utilização de robôs. As apresentações podem ser dança, teatro, mágica, show de comédia entre outras.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eEtapas Regionais e Estaduais:\u003c/b\u003e 01/06/2025 a 31/08/2025\u003cbr\u003e\u003cb\u003eEtapa Nacional:\u003c/b\u003e 13/10/2025 a 19/10/2025\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003cu\u003eRobótica de Resgate:\u003c/u\u003e\u003c/b\u003e Construa um robô seguidor de linha autônomo que seja capaz de resgatar vítimas em um ambiente de desastre passando por todos os perigos do caminho, sem intervenção humana.\u003cbr\u003e\u003cb\u003eEtapas Regionais e Estaduais:\u003c/b\u003e 01/06/2025 a 31/08/2025\u003cbr\u003e\u003cb\u003eEtapa Nacional:\u003c/b\u003e 13/10/2025 a 19/10/2025\u003cbr\u003e\u003cbr\u003e\u003cbr\u003e\u003cb\u003e\u003cu\u003eRobótica Virtual - Simulação:\u003c/u\u003e\u003c/b\u003e Crie um robô virtual para competir em provas simuladas de resgate. É uma oportunidade de participar de forma mais acessível.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eEtapas Estaduais:\u003c/b\u003e Em breve.\u003cbr\u003e\u003cb\u003eEtapa Nacional:\u003c/b\u003e Em breve.\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-23T22:43:00.814Z",
+    "updateTime": "2025-04-27T01:26:57.623Z",
+    "publicationTime": "2024-04-23T22:43:33.108Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Datas Importantes"
+    }],
+    "courseWorkMaterial": {
+      "title": "Prova Teórica",
+      "description": "Para estudantes regularmente matriculados no Ensino Médio ou Técnico Integrado.\n\nAplicação das provas (Fase 1): 02 a 06/06/2025\nAplicação das provas (Fase 2): 07/08/2025\n",
+      "descriptionHtml": "\u003cdiv\u003ePara estudantes regularmente matriculados no Ensino Médio ou Técnico Integrado.\u003cbr\u003e\u003cbr\u003e\u003cb\u003eAplicação das provas (Fase 1):\u003c/b\u003e 02 a 06/06/2025\u003cbr\u003e\u003cb\u003eAplicação das provas (Fase 2):\u003c/b\u003e 07/08/2025\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-18T16:31:46.405Z",
+    "updateTime": "2024-04-18T16:31:50.480Z",
+    "publicationTime": "2024-04-18T16:31:50.066Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Videoaulas sBotics"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "9Iu-tn4EivM",
+        "title": "sBotics 01 - Baixando e Conhecendo o sBotics - R-Educ",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d9Iu-tn4EivM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9Iu-tn4EivM/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "sdR9HtrMjG8",
+        "title": "sBotics 02 - Condicionais Se Entao Senao - R-Educ",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dsdR9HtrMjG8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sdR9HtrMjG8/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "rt5sgk8-d5Q",
+        "title": "sBotics 03 - Repetição Enquanto Farei - R-Educ",
+        "alternateLink": "https://www.youtube.com/watch?v\u003drt5sgk8-d5Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rt5sgk8-d5Q/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "PwUuJXn_GAY",
+        "title": "sBotics 04 - Repetição Para Farei - R-Educ",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dPwUuJXn_GAY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/PwUuJXn_GAY/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "CibyVgYmkkU",
+        "title": "sBotics 05 - Tipos de DADOS - VARIÁVEIS R-Educ",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dCibyVgYmkkU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/CibyVgYmkkU/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "zWSOHleucl4",
+        "title": "sBotics 06 - Comando TESTE - Programação R-Educ no Simulador",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dzWSOHleucl4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/zWSOHleucl4/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "J0GhWEjZNkw",
+        "title": "sBotics 07.1 - Atualização 1.858 - Simulador OBR Virtual",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dJ0GhWEjZNkw",
+        "thumbnailUrl": "https://i.ytimg.com/vi/J0GhWEjZNkw/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "nggrhxIfozU",
+        "title": "sBotics 08 - Funções R-Educ esperar ultra direcao inclinacao temalgo",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dnggrhxIfozU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nggrhxIfozU/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "GBD6e_qH-NI",
+        "title": "sBotics 09 - Funções R Educ frente tras esquerda direita mover parar",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dGBD6e_qH-NI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/GBD6e_qH-NI/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "JXkPgE7m4ZA",
+        "title": "sBotics 10 - Funções R-Educ Sensor de COR e LUZ",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dJXkPgE7m4ZA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/JXkPgE7m4ZA/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "xNSPCrveayY",
+        "title": "sBotics 11 - Funções R-Educ ESCREVER e CONCATENAR",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dxNSPCrveayY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xNSPCrveayY/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "B9UQToaBAMY",
+        "title": "sBotics 012 - Funções do Robô abrir fechar levantar baixar girarcima girarbaixo ATUADORES",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dB9UQToaBAMY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/B9UQToaBAMY/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "IdL5k8sbP0c",
+        "title": "Parte 1 (O simulador) - Simulador de Robótica sBotics (OBR)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dIdL5k8sbP0c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/IdL5k8sbP0c/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "Dlg--4NENyo",
+        "title": "Parte 2 (Programação) - Simulador de Robótica sBotics (OBR)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dDlg--4NENyo",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Dlg--4NENyo/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "sBotics - Videotutorial 2"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-18T16:04:51.701Z",
+    "updateTime": "2024-04-18T16:35:59.797Z",
+    "publicationTime": "2024-04-18T16:05:48.641Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Videoaulas sBotics"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "Pjm9cjiHPLU",
+        "title": "Aula 1 (SBOTICS) - Montagem do Robô e Arena (Parte 1)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dPjm9cjiHPLU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Pjm9cjiHPLU/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "Uiqe6_DgxU0",
+        "title": "Aula 1 (SBOTICS) - Montagem do Robô e Arena (Parte 2)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dUiqe6_DgxU0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Uiqe6_DgxU0/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "0nV1awuH-Oc",
+        "title": "Aula 2  (SBOTICS) - Linguagem de Programação e Lógica do Seguidor de Linha (Parte 1)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d0nV1awuH-Oc",
+        "thumbnailUrl": "https://i.ytimg.com/vi/0nV1awuH-Oc/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "bMN3cOWHYbY",
+        "title": "Aula 2 (SBOTICS) - Linguagem de Programação e Lógica do Seguidor de Linha (Parte 3)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dbMN3cOWHYbY",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bMN3cOWHYbY/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "v7QVYhIP2-w",
+        "title": "Aula 2 (SBOTICS) - Linguagem de Programação e Lógica do Seguidor de Linha (Parte 2)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dv7QVYhIP2-w",
+        "thumbnailUrl": "https://i.ytimg.com/vi/v7QVYhIP2-w/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "jwSvYq0YN_Y",
+        "title": "Aula 3 (SBOTICS) - Desafio e Exploração da linguagem de programação do REduc",
+        "alternateLink": "https://www.youtube.com/watch?v\u003djwSvYq0YN_Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/jwSvYq0YN_Y/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "sBotics - Videotutorial 1 (iniciem p/AQUI!)"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T15:23:49.078Z",
+    "updateTime": "2024-04-18T16:01:53.478Z",
+    "publicationTime": "2024-04-17T15:32:21.937Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Videoaulas Arduino"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "4LVqy8-CmFk",
+        "title": "O que é a placa Arduino? (em 3 minutos)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d4LVqy8-CmFk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4LVqy8-CmFk/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "sfMEMVHA75Q",
+        "title": "A pensar em... Arduino - O que é a placa Arduino?",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dsfMEMVHA75Q",
+        "thumbnailUrl": "https://i.ytimg.com/vi/sfMEMVHA75Q/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "Wpl5sAQ-Xq4",
+        "title": "Unboxing Kit Arduino e nova parceria do canal",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dWpl5sAQ-Xq4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Wpl5sAQ-Xq4/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "3M84qnZ9_J0",
+        "title": "Tutorial componentes Arduino (Ep 00 - A breadboard)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d3M84qnZ9_J0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3M84qnZ9_J0/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "WTmAM73uQ1g",
+        "title": "Tutorial componentes Arduino (Ep 01 - LED)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dWTmAM73uQ1g",
+        "thumbnailUrl": "https://i.ytimg.com/vi/WTmAM73uQ1g/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "9jfEnyzY7gE",
+        "title": "Tutorial componentes Arduino (Ep 02 - Botão de Pressão)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d9jfEnyzY7gE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/9jfEnyzY7gE/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "u6tn0PopdrA",
+        "title": "Tutorial componentes Arduino (Ep 03 - Buzzer / Piezo)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003du6tn0PopdrA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/u6tn0PopdrA/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "gbtPazmhymI",
+        "title": "Tutorial componentes Arduino (Ep 04 - Sensor de Luz / Célula foto-elétrica)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dgbtPazmhymI",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gbtPazmhymI/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "8MqORXk5TQQ",
+        "title": "Tutorial componentes Arduino (Ep 05 - Potenciómetro)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d8MqORXk5TQQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/8MqORXk5TQQ/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "OIKkYPN2e-k",
+        "title": "Tutorial componentes Arduino (Ep 06 - Sensor de vibração)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dOIKkYPN2e-k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OIKkYPN2e-k/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "xDf6Au2u7so",
+        "title": "Tutorial componentes Arduino (Ep 07 - Mostrador de um dígito com 7 segmentos)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dxDf6Au2u7so",
+        "thumbnailUrl": "https://i.ytimg.com/vi/xDf6Au2u7so/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "H4lP99ySy8E",
+        "title": "Tutorial componentes Arduino (Ep 08 - Display LCD 16x2 com backpack I2C)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dH4lP99ySy8E",
+        "thumbnailUrl": "https://i.ytimg.com/vi/H4lP99ySy8E/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "fcOzXdeGWdE",
+        "title": "Tutorial componentes Arduino (Ep 09 - Sensor de temperatura)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dfcOzXdeGWdE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fcOzXdeGWdE/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "b9nD3-ELAjk",
+        "title": "Tutorial componentes Arduino (Ep 10 - Sensor de som)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003db9nD3-ELAjk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/b9nD3-ELAjk/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "v81_N88fO2Y",
+        "title": "Tutorial componentes Arduino (Ep 11 - Sensor de chama)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dv81_N88fO2Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/v81_N88fO2Y/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "vPD1Gk3j-rE",
+        "title": "Tutorial componentes Arduino (Ep 12 - Sensor de nível de água)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dvPD1Gk3j-rE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vPD1Gk3j-rE/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "nV-55hxt64g",
+        "title": "Tutorial componentes Arduino (Ep 13 - Sensor de humidade)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dnV-55hxt64g",
+        "thumbnailUrl": "https://i.ytimg.com/vi/nV-55hxt64g/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "5VejPGs4-3k",
+        "title": "Tutorial componentes Arduino (Ep 14 - Recetor de infravermelhos)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d5VejPGs4-3k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/5VejPGs4-3k/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "vWHXV_ycLhs",
+        "title": "Tutorial componentes Arduino (Ep 15 - Joystick analógico)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dvWHXV_ycLhs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/vWHXV_ycLhs/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "TmZJlovHXOM",
+        "title": "Tutorial componentes Arduino (Ep 16 - Servo motor)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dTmZJlovHXOM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/TmZJlovHXOM/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "YE-PiGIsx_c",
+        "title": "Tutorial componentes Arduino (Ep 17 - Motor de passo / stepper)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dYE-PiGIsx_c",
+        "thumbnailUrl": "https://i.ytimg.com/vi/YE-PiGIsx_c/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "3t6WvyID9Tg",
+        "title": "Tutorial componentes Arduino (Ep 18 - Módulo RGB)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d3t6WvyID9Tg",
+        "thumbnailUrl": "https://i.ytimg.com/vi/3t6WvyID9Tg/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "bbvsjZ7uAVE",
+        "title": "Tutorial componentes Arduino (Ep 19 - Relógio DS1302 RTC)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dbbvsjZ7uAVE",
+        "thumbnailUrl": "https://i.ytimg.com/vi/bbvsjZ7uAVE/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "aBgmhpAG9uU",
+        "title": "Tutorial componentes Arduino (Ep 20 - Relé de 1 canal)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003daBgmhpAG9uU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/aBgmhpAG9uU/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "fG9I8k-znt0",
+        "title": "Tutorial componentes Arduino (Ep 21 - Leitor RFID)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dfG9I8k-znt0",
+        "thumbnailUrl": "https://i.ytimg.com/vi/fG9I8k-znt0/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "enm3kwqLFl4",
+        "title": "Tutorial componentes Arduino (Ep 22 - Matriz de botões 4x4)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003denm3kwqLFl4",
+        "thumbnailUrl": "https://i.ytimg.com/vi/enm3kwqLFl4/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "biXB-hRdIzs",
+        "title": "Tutorial componentes Arduino (Ep 23 - Matriz de LEDs 8x8)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dbiXB-hRdIzs",
+        "thumbnailUrl": "https://i.ytimg.com/vi/biXB-hRdIzs/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "OtLzy_J0R18",
+        "title": "Tutorial componentes Arduino (Ep 24 - Circuito integrado 74HC595)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dOtLzy_J0R18",
+        "thumbnailUrl": "https://i.ytimg.com/vi/OtLzy_J0R18/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "A pensar em... (comecem por AQUI!)"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T15:22:01.307Z",
+    "updateTime": "2024-04-17T15:22:55.010Z",
+    "publicationTime": "2024-04-17T15:22:54.789Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Videoaulas Arduino"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "ie0RlrApkdk",
+        "title": "Curso de Arduino Para Iniciantes: Aula 1 (2023)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003die0RlrApkdk",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ie0RlrApkdk/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "K3EoNz8KIn8",
+        "title": "Curso de Arduino Para Iniciantes: Aula 2  - Variáveis (2022)",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dK3EoNz8KIn8",
+        "thumbnailUrl": "https://i.ytimg.com/vi/K3EoNz8KIn8/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Lobo da Robótica - Curso Iniciante Arduino"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T15:19:43.983Z",
+    "updateTime": "2024-04-17T15:20:30.010Z",
+    "publicationTime": "2024-04-17T15:20:29.812Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Videoaulas Arduino"
+    }],
+    "materials": [{
+      "youtubeVideo": {
+        "id": "AFqwLvlt4iU",
+        "title": "Curso de Arduino para Iniciantes - Aula 01 - Introdução - Botão de Toque",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dAFqwLvlt4iU",
+        "thumbnailUrl": "https://i.ytimg.com/vi/AFqwLvlt4iU/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "rIdiLlf4vJQ",
+        "title": "Curso de Arduino para Iniciantes - Aula 02 - Partes do Arduino - Controle por Palmas",
+        "alternateLink": "https://www.youtube.com/watch?v\u003drIdiLlf4vJQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/rIdiLlf4vJQ/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "gjdPhAyJVuM",
+        "title": "Curso de Arduino para Iniciantes - Aula 03 - Teoria da Eletricidade - Projeto Bola de Cristal",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dgjdPhAyJVuM",
+        "thumbnailUrl": "https://i.ytimg.com/vi/gjdPhAyJVuM/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "4xecGE3HA6Y",
+        "title": "Arduino para Iniciantes - Aula 04 - Circuitos Elétricos - Projeto Braço Robótico",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d4xecGE3HA6Y",
+        "thumbnailUrl": "https://i.ytimg.com/vi/4xecGE3HA6Y/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "61M7Mg7KP6k",
+        "title": "Arduino para Iniciantes - Aula 05 - Protoboard - Projeto Carro de Controle Remoto - Parte 1",
+        "alternateLink": "https://www.youtube.com/watch?v\u003d61M7Mg7KP6k",
+        "thumbnailUrl": "https://i.ytimg.com/vi/61M7Mg7KP6k/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "ZAKyxNs2uuA",
+        "title": "Arduino para Iniciantes - Aula 06 - Lei de Ohm - Projeto Carro de Controle Remoto - Parte 2",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dZAKyxNs2uuA",
+        "thumbnailUrl": "https://i.ytimg.com/vi/ZAKyxNs2uuA/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "yk68UhjJ0VQ",
+        "title": "Kit Iniciante MDF - Como Programar Botões e Piscar LEDs",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dyk68UhjJ0VQ",
+        "thumbnailUrl": "https://i.ytimg.com/vi/yk68UhjJ0VQ/default.jpg"
+      }
+    }, {
+      "youtubeVideo": {
+        "id": "Temfc_TnP8s",
+        "title": "Controle On/Off de Motor com Arduino",
+        "alternateLink": "https://www.youtube.com/watch?v\u003dTemfc_TnP8s",
+        "thumbnailUrl": "https://i.ytimg.com/vi/Temfc_TnP8s/default.jpg"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Brincando com Ideias - Curso de Arduino p/Iniciantes"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T15:09:10.954Z",
+    "updateTime": "2024-04-18T16:32:34.285Z",
+    "publicationTime": "2024-04-17T15:09:46.251Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Tutoriais - sBotics"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://docs.sbotics.net/sbotics/sBotics_Simulator/introduction",
+        "title": "start [sBotics Wiki]",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://docs.sbotics.net/sbotics/sBotics_Simulator/introduction"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Tutoriais Online Oficial do sBotics"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T14:51:36.044Z",
+    "updateTime": "2024-04-17T14:52:20.454Z",
+    "publicationTime": "2024-04-17T14:52:19.965Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Provas Teóricas OBR (2018 a 2024)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1LV1RqMze1ThEjgEZJHlts6LU-GsTN4vm",
+          "title": "OBR2022_MT_NIVEL5_F1-Gabarito.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1LV1RqMze1ThEjgEZJHlts6LU-GsTN4vm/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP6p8DEezcJNrsnbS_TlXfyZrkTAThBggDA6sNX0txHLr3emzVBERA8qVDxZ0HqBu-KcByRd2zW1xNs_2FUtNaKf5soE3GtBEQ0-8TDXclLhCs\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1bZTY0baqHvgzm8r_wl1EuIERkMd-LUla",
+          "title": "OBR2022_MT_NIVEL5_F1-Prova.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1bZTY0baqHvgzm8r_wl1EuIERkMd-LUla/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPkaKaJ_0tETzjCnhjnam-YcQrFX4qFjcCrGi2XgYyaTKy4bvXDPRj-3xwMoip4553XofB_3kfu9FUCY3zYTxLZWiYP4o56yw-3kmIAeZ_isec\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "14vxX-4Jr2lNvblw3lQXhxnO1i8vfKhg3",
+          "title": "OBR2022_MT_NIVEL5_F2-Gabarito.pdf",
+          "alternateLink": "https://drive.google.com/file/d/14vxX-4Jr2lNvblw3lQXhxnO1i8vfKhg3/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNwN_CkqLiJimZVar57KXxRV4ALsbPC3H3KObvNKREYyYCOqp19RRSh1nwE0Rj0b3zlvo65Jdm0qRHStkxeX9LGR0J3f5zj0_OXMOghFD9tjzo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1PJY1mYCN8dcWGMPnZe-wX_qHYckPU2GI",
+          "title": "OBR2022_MT_NIVEL5_F2-Prova.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1PJY1mYCN8dcWGMPnZe-wX_qHYckPU2GI/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOqUfOgQYPlSgJuUb39sqSNnqeq_KfJ1nYs45k4N9Pzxl428xcn_ch_Lxdx0RbDzQ1rM9PudKy6F3EWzFf8Dwr4VHHkFVnkYcD3eLI8_LNENYY\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Provas/Gabaritos (2022) - Fases 1 e 2"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T14:50:35.432Z",
+    "updateTime": "2024-04-17T14:51:27.529Z",
+    "publicationTime": "2024-04-17T14:51:27.113Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Provas Teóricas OBR (2018 a 2024)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1Za4cH9wXr0ZEhE8ZHd7_XH7vX1PerPjs",
+          "title": "OBR2021_GABARITO_NIVEL5_FASE1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Za4cH9wXr0ZEhE8ZHd7_XH7vX1PerPjs/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNu2y2ZS04Vh0twyc0xq3-tsgrUXx0ifUZ6C0Zxd9RZuGyGGJk48irzCz8jCnur9_Rz2INLEq-JvUm1K7Zd0R-EFAHAlGF_jBJYEVWQD4wMaQo\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1h-ra6N-y3G2lcKDl5IJjU-bQqrGYMhZK",
+          "title": "OBR2021_NIVEL5_FASE1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1h-ra6N-y3G2lcKDl5IJjU-bQqrGYMhZK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNpKFEeXq53ZtRrmf5eJNQv9RWYDqWmZKkTcHo_inY4lEo-LqYBBrb3vvM4adRRL8viw_z_VZHjYNR4xApVTrEcoxJw1CjMiucXa44WNsBU5sk\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Provas/Gabaritos (2021) - Fase 1"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T14:49:07.405Z",
+    "updateTime": "2024-04-17T14:49:47.829Z",
+    "publicationTime": "2024-04-17T14:49:47.614Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Provas Teóricas OBR (2018 a 2024)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1h1O7Ik26sv6r1vVZL_qGoSfZgfY5G5HK",
+          "title": "OBR2020_GABARITO_N5_FASE1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1h1O7Ik26sv6r1vVZL_qGoSfZgfY5G5HK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMYtCIm9_HClldJBcLTH0ZRfYz9K1uPe3x39W4_HaTvKFg4Rg-DqC3lIS9slMZIoQejW5NXwcyzmYyozOb6e5kR-GCpPOeIhlKYa2cXlp9y2Hw\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1NBJcOoD3FCUgr3JPk_DSQ9yOy8uENXpr",
+          "title": "OBR2020_GABARITO_N5_FASE2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1NBJcOoD3FCUgr3JPk_DSQ9yOy8uENXpr/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOuI-fkhWUrE8KhK5bnsdJ8NOLPZ52cVmpc3yBE75ok_kMQku48MkWW1cjMmH66ujK88pPaJJ5otBpoIRA79xF5sMukOZUW3XEFHGxNtFi-_KI\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1fmhlYPSRaoDSqzkWtLrQQUP0Q_5OuH5Q",
+          "title": "OBR2020_Nivel5_FASE1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1fmhlYPSRaoDSqzkWtLrQQUP0Q_5OuH5Q/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOpfY5PHpONgxFQ3QtwDRk7EyG1XClrYbi6Q_FC_1bAWtPSknz7XEcSu5Z5FUL3ipPoyPNQO5souSCLPXO-o8VgW9m-P_C09k-oRuSfu0LFl3s\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "14QMsIaJOK3bnu0b9bWA0g4eJdWarIvF9",
+          "title": "OBR2020_Nivel5_FASE2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/14QMsIaJOK3bnu0b9bWA0g4eJdWarIvF9/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBM1t4byUgrtZzE6NG5i8awRfa-VoENdapGvX42pQ7FYnUDkdCSLhl6Y-qej5qT15JG29PIvNmH3A_bh7_5marjS7eTT8MNFPJ5rzvU5-fS4taA\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Provas/Gabaritos (2020) - Fases 1 e 2"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T14:47:50.541Z",
+    "updateTime": "2024-04-17T14:48:36.904Z",
+    "publicationTime": "2024-04-17T14:48:36.575Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Provas Teóricas OBR (2018 a 2024)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "10SrxtaACqOkwHDfcZ9whksJKIC55mjGC",
+          "title": "OBR2019_GABARITO_N5_FASE1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/10SrxtaACqOkwHDfcZ9whksJKIC55mjGC/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMNHFrpGBC3-g8F6KyVQhh50eRcuYQHKE_BX4lfCyi1Dv1rEVOROwPkL_Vnz8ywFznNOKNaeQpwRVn4xIsy0g_uMmCg1XmT7d6OEskEKjarT4A\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1RMRH6bBehKKx1FoPukpKEwhEPpnNpsl_",
+          "title": "OBR2019_GABARITO_N5_FASE2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1RMRH6bBehKKx1FoPukpKEwhEPpnNpsl_/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBNFqeHjC_h7NioEJsJYpLNUe_bzjjIsHqjp3-1s811QL8xPtzQHriBZI_fxganqBXGyCABAcG5HbFTOOBx_p4_23TLlmQLiiIOIIR3d1i-MjdE\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1Upd6gnQTfCB-cvkUXD6mJ3dL-fEhPhdq",
+          "title": "OBR2019_Nivel5_Fase1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1Upd6gnQTfCB-cvkUXD6mJ3dL-fEhPhdq/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBPCGRhx-0vrabogUkv8mAn393QMNi_xoNBYOhwW0tTVMrXb4HDbYH5Zh6WANWQFRyelLRSWWyHrC5fGnx-yPKjAxIUXS6-3reaf6EY2zplx-To\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1xV9qieIZ1X3p1_ijOj4WLAQcsYIm3CAO",
+          "title": "OBR2019_Nivel5_Fase2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1xV9qieIZ1X3p1_ijOj4WLAQcsYIm3CAO/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBN6TBH4zzTZVfNwVAqiBwhdt7T28vE6syHC2dGvJaLk6hLJXAzK542Ku63acJ2yQEfJ3kEadDgw61UKu5osYRm1ZW5R-bGpvo7_URqYfTy0vP4\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Provas/Gabaritos (2019) - Fases 1 e 2"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T14:39:16.691Z",
+    "updateTime": "2024-04-17T14:47:29.559Z",
+    "publicationTime": "2024-04-17T14:47:29.340Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Provas Teóricas OBR (2018 a 2024)"
+    }],
+    "materials": [{
+      "driveFile": {
+        "driveFile": {
+          "id": "1KkwFj-RcQfPl8gz6b7eQQymIsYnbmCfb",
+          "title": "OBR2018_GABARITO_N5_FASE1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1KkwFj-RcQfPl8gz6b7eQQymIsYnbmCfb/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBP6HqqwxeGa_xpQhoYzvIfXtOdT3jdZRAkzNFepfQ8UNzGawDoQ9tECt9fb0EIzSx8Y_rzqrPL_to7N6FvoZX31lG1W191mBMIKEJZgHruyey8\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1eK_xp0Nzkn4e0QWYzACmVW9tYcvmTCef",
+          "title": "OBR2018_GABARITO_N5_FASE2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1eK_xp0Nzkn4e0QWYzACmVW9tYcvmTCef/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMx19Acimxff9GFxTxi2tpzcQ5bHKHlrVvY_TyJonEt6Uh2xKSkvAFlRe7xowU5Zqt3Jj_bDOCOYFdefklQMF7I30xdKCV-G-y08dLSewe8W28\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1PDy-RvGfaAQY2ASKW8zFdbhR5nBSPNHK",
+          "title": "OBR2018_Nivel5_Fase1.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1PDy-RvGfaAQY2ASKW8zFdbhR5nBSPNHK/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBOMipALWvrx88RVFgJGE3tWH7fhQjGkyc8zWrlpxE2nhoJifGKJ_ywP90leS01gv7SyoRWCVbXU9l884ubYuoQMuDsHjUjSIeIwSEbmw0J6N4M\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }, {
+      "driveFile": {
+        "driveFile": {
+          "id": "1B--pvH7ybMn6R6jB5XVmW3GQoMZBZLkU",
+          "title": "OBR2018_Nivel5_Fase2.pdf",
+          "alternateLink": "https://drive.google.com/file/d/1B--pvH7ybMn6R6jB5XVmW3GQoMZBZLkU/view?usp\u003ddrive_web",
+          "thumbnailUrl": "https://lh3.googleusercontent.com/drive-storage/AJQWtBMaejErYMPEuC_pCrL-ClrSJyUqXwdhv0Evr3G92sQdkyk8O1ekL3_ySsIPmNtDPLuMqV5CEpNe0mnir2yt_Bhkl-VCVnO5BytcM21fOZXcXgc\u003ds200"
+        },
+        "shareMode": "VIEW"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Provas/Gabaritos (2018) - Fases 1 e 2"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T14:38:32.887Z",
+    "updateTime": "2024-04-17T14:39:00.972Z",
+    "publicationTime": "2024-04-17T14:39:00.732Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Simulador sBotics"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://code.sbotics.net/",
+        "title": "sBotics Code",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://code.sbotics.net/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Para usar Online",
+      "description": "Obs: Precisa criar conta de usuário. A conta é gratuita.",
+      "descriptionHtml": "\u003cdiv\u003eObs: Precisa criar conta de usuário. A conta é gratuita.\u003c/div\u003e"
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T14:32:05.141Z",
+    "updateTime": "2024-04-18T16:32:55.982Z",
+    "publicationTime": "2024-04-17T14:32:45.799Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Simulador sBotics"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://sbotics.net/",
+        "title": "sBotics",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://sbotics.net/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "Link para Baixar sBotics para computador."
+    }
+  }, {
+    "creator": {
+      "name": {
+        "fullName": "Rosiberto dos Santos Gonçalves"
+      },
+      "emailAddress": "rosibertosantos@gmail.com"
+    },
+    "creationTime": "2024-04-17T14:31:01.561Z",
+    "updateTime": "2024-04-17T15:11:33.589Z",
+    "publicationTime": "2024-04-17T14:31:25.140Z",
+    "state": "PUBLISHED",
+    "assigneeMode": "ALL_STUDENTS",
+    "topics": [{
+      "name": "Simulador Arduino - WOKWI"
+    }],
+    "materials": [{
+      "link": {
+        "url": "https://wokwi.com/",
+        "title": "Wokwi - World\u0027s most advanced ESP32 Simulator",
+        "thumbnailUrl": "https://classroom.google.com/webthumbnail?url\u003dhttps://wokwi.com/"
+      }
+    }],
+    "courseWorkMaterial": {
+      "title": "WOKWI - Para usar Online"
+    }
+  }]
+}
